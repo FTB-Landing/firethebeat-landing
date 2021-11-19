@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/firethebeat-landing/static/css/main.c32408ee.chunk.css",
+    "main.js": "/firethebeat-landing/static/js/main.163da370.chunk.js",
+    "main.js.map": "/firethebeat-landing/static/js/main.163da370.chunk.js.map",
+    "runtime-main.js": "/firethebeat-landing/static/js/runtime-main.f7f82fe4.js",
+    "runtime-main.js.map": "/firethebeat-landing/static/js/runtime-main.f7f82fe4.js.map",
+    "static/js/2.2ab2daf0.chunk.js": "/firethebeat-landing/static/js/2.2ab2daf0.chunk.js",
+    "static/js/2.2ab2daf0.chunk.js.map": "/firethebeat-landing/static/js/2.2ab2daf0.chunk.js.map",
+    "static/js/3.7948d3d8.chunk.js": "/firethebeat-landing/static/js/3.7948d3d8.chunk.js",
+    "static/js/3.7948d3d8.chunk.js.map": "/firethebeat-landing/static/js/3.7948d3d8.chunk.js.map",
+    "index.html": "/firethebeat-landing/index.html",
+    "static/css/main.c32408ee.chunk.css.map": "/firethebeat-landing/static/css/main.c32408ee.chunk.css.map",
+    "static/js/2.2ab2daf0.chunk.js.LICENSE.txt": "/firethebeat-landing/static/js/2.2ab2daf0.chunk.js.LICENSE.txt",
+    "static/media/ftb_apocalypse_bg.40ded96a.png": "/firethebeat-landing/static/media/ftb_apocalypse_bg.40ded96a.png",
+    "static/media/ftb_apocalypse_icon.19f660fd.jpg": "/firethebeat-landing/static/media/ftb_apocalypse_icon.19f660fd.jpg",
+    "static/media/ftb_hero_bg.941c534c.png": "/firethebeat-landing/static/media/ftb_hero_bg.941c534c.png",
+    "static/media/ftb_hero_icon.dc0bf029.png": "/firethebeat-landing/static/media/ftb_hero_icon.dc0bf029.png",
+    "static/media/game_list_header.99db7841.png": "/firethebeat-landing/static/media/game_list_header.99db7841.png",
+    "static/media/google_store_btn.d2d740fb.png": "/firethebeat-landing/static/media/google_store_btn.d2d740fb.png",
+    "static/media/header_image.93fe041f.svg": "/firethebeat-landing/static/media/header_image.93fe041f.svg",
+    "static/media/united-kingdom.a1b1dff4.png": "/firethebeat-landing/static/media/united-kingdom.a1b1dff4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f82fe4.js",
+    "static/js/2.2ab2daf0.chunk.js",
+    "static/css/main.c32408ee.chunk.css",
+    "static/js/main.163da370.chunk.js"
+  ]
+}
